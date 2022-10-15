@@ -1,0 +1,7 @@
+﻿  audio_channel_dials_client.cpp
+Z:\00 Projects\desk_control_pannel\Software\software_dial_windows\audio_channel_dials_client\audio_channel_dials_client\audio_channel_dials_client.cpp(475,10): warning C4101: 'SerialBuffer': unreferenced local variable
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 586 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  audio_channel_dials_client.vcxproj -> Z:\00 Projects\desk_control_pannel\Software\software_dial_windows\audio_channel_dials_client\x64\Release\audio_channel_dials_client.exe
